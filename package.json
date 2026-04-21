@@ -1,0 +1,27 @@
+{
+  "name": "interview_ai",
+  "version": "1.0.0",
+  "description": "",
+  "main": "src/app.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Vamshi-29/Interview_AI.git"
+  },
+  "type": "module",
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Vamshi-29/Interview_AI/issues"
+  },
+  "scripts": {
+    "start": "node src/app.js",
+    "dev": "nodemon src/app.js"
+  },
+  "dependencies": {
+    "express": "^4.21.2",
+    "nodemon": "^3.1.14",
+    "pg": "^8.20.0"
+  },
+  "homepage": "https://github.com/Vamshi-29/Interview_AI#readme"
+}
